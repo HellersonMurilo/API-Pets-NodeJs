@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "Gorilla",
+        "raca": "Macaco-Simbionte",
+        "idade": 15,
+        "sexo": "Masculino",
+        "corPelo": "Preto"
+    },
+    {
+        "tipo": "Macaco",
+        "raca": "Macaco-Primitivo",
+        "idade": 13,
+        "sexo": "Feminino",
+        "corPelo": "Bombom"
+    },
+    {
+        "tipo": "Mico",
+        "raca": "Mico-Estrela",
+        "idade": 2,
+        "sexo": "Masculino",
+        "corPelo": "Ralado"
+    },
+    {
+        "tipo": "Mico-Leao-Dourado",
+        "raca": "Mico-Leao",
+        "idade": 3,
+        "sexo": "Masculino",
+        "corPelo": "Dourado"
+    },
+    {
+        "tipo": "Gorilla-sexual",
+        "raca": "Gorilao",
+        "idade": 10,
+        "sexo": "Masculino",
+        "corPelo": "ChatGPT"
+    }
+]

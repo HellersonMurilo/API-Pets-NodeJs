@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "Gato",
+        "corPelo": "caramelo",
+        "idade": 23,
+        "sexo": "Feminino",
+        "raca": "Siames"
+    },
+    {
+        "tipo": "Gato",
+        "corPelo": "pelado",
+        "idade": 67,
+        "sexo": "Masculino",
+        "raca": "Sphynx"
+    },
+    {
+        "tipo": "Gato",
+        "corPelo": "roxo",
+        "idade": 4,
+        "sexo": "Feminino",
+        "raca": "exotico"
+    },
+    {
+        "tipo": "Gato",
+        "corPelo": "branco",
+        "idade": 42,
+        "sexo": "Feminino",
+        "raca": "Persa"
+    },
+    {
+        "tipo": "Gato",
+        "corPelo": "preto",
+        "idade": 3,
+        "sexo": "Masculino",
+        "raca": "de Rua"
+    }
+]

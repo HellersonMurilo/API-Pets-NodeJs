@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "Cachorro",
+        "raca": "Pug",
+        "idade": 1,
+        "sexo": "Masculino",
+        "corPelo": "Preto e Branco"
+    },
+    {
+        "tipo": "Cachorro",
+        "raca": "York",
+        "idade": 13,
+        "sexo": "Feminino",
+        "corPelo": "Preto"
+    },
+    {
+        "tipo": "Cachorro",
+        "raca": "Pitbull",
+        "idade": 5,
+        "sexo": "Masculino",
+        "corPelo": "Branco"
+    },
+    {
+        "tipo": "Cachorro",
+        "raca": "Rotweiller",
+        "idade": 11,
+        "sexo": "Masculino",
+        "corPelo": "Dourado"
+    },
+    {
+        "tipo": "Cachorro",
+        "raca": "CARAMELO",
+        "idade": 2,
+        "sexo": "Masculino",
+        "corPelo": "Preto e Branco"
+    }
+]
