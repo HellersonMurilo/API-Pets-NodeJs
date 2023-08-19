@@ -34,7 +34,7 @@ const server = http.createServer((request, response) =>{
         lerArquivo(response,'petsCats.json')
     }else if(request.url === '/fish'){
         lerArquivo(response,'petsFish.json')
-    }else if(request.url === '/Monkeys'){
+    }else if(request.url === '/monkeys'){ 
         lerArquivo(response,'petsMonkeys.json')
     }else{
         response.end(`
